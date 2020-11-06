@@ -12,5 +12,6 @@
         android:id="@+id/crash_btn"
         android:layout_width="200dp"
         android:layout_height="50dp"
+        android:visibility="gone"
         android:text="crash" />
 </LinearLayout>

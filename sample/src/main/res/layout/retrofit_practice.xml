@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_baidu_base_url"
+        style="@style/normal_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="使用百度baseUrl" />
+
+    <Button
+        android:id="@+id/bt_other_base_url"
+        style="@style/normal_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="使用其他baseUrl" />
+</LinearLayout>

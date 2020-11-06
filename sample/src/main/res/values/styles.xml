@@ -4,4 +4,7 @@
     <style name="AppTheme" parent="android:Theme.DeviceDefault">
     </style>
 
+    <style name="normal_text">
+        <item name="android:textSize">28sp</item>
+    </style>
 </resources>
